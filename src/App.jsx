@@ -3,11 +3,11 @@ import HolaMundo from './components/world';
 import './App.css'
 
 const App =() => {
- 
+ const texto = 'my friend';
 
   return (
     <>
-     <HolaMundo></HolaMundo>
+     <HolaMundo amigo={texto}></HolaMundo>
     </>
   )
 }
