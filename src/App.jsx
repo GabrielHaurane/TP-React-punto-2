@@ -1,14 +1,15 @@
-
+import React from 'react';
+import HolaMundo from './components/world';
 import './App.css'
 
-function App() {
+const App =() => {
  
 
   return (
     <>
-      
+     <HolaMundo></HolaMundo>
     </>
   )
 }
 
-export default App
+export default App;
