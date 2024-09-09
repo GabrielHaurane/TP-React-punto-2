@@ -1,8 +1,12 @@
-# React + Vite
+# Hello World, My Friend App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web simple que muestra el mensaje "Hello World, My friend" en pantalla. La aplicación está construida utilizando React, HTML y CSS. El mensaje se construye dinámicamente utilizando `props`.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.
+- **HTML**: Lenguaje de marcado para estructurar la aplicación.
+- **CSS**: Lenguaje de estilos para la presentación y diseño de la aplicación.
+
+## Para verlo
+https://2helloworld.netlify.app
